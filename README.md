@@ -5,11 +5,16 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/kalpeshsingh89)  
 
 ---
+## 🚀 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-yellow?logo=ansys) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue) ![deal.II](https://img.shields.io/badge/deal.II-FEM-lightgrey) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+
+---
 
 ## 👨‍💻 About Me  
 🎓 Master's student in **Mechanical Design Engineering** at **IIT Madras**  
 🔧 Specializing in **CAE, FEA, CFD, and ML for Engineering**  
-📌 Deputy Placement Coordinator | Passionate about **R&D, Multiphysics Simulation & Optimization**  
+📌 Core Placement Coordinator | Passionate about **R&D, Multiphysics Simulation & Optimization**  
 🌍 Career Goals: R&D/Product Development roles in **Germany, Japan, South Korea, Dubai, Australia, Taiwan**  
 
 ---
@@ -35,18 +40,6 @@
 - 🔹 Data Analysis & Visualization with Python, MATLAB, Excel  
 
 ---
-
-## 🚀 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![ANSYS](https://img.shields.io/badge/ANSYS-yellow?logo=ansys)  
-![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue)  
-![deal.II](https://img.shields.io/badge/deal.II-FEM-lightgrey)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 
 ---
 
