@@ -1,53 +1,53 @@
-# 👋 Hello Everyone, I'm Kalpesh Singh  
+# Hi there 👋, My name is Kalpesh Singh  
 
-🎓 **Master's Student in Mechanical Design Engineering** at **IIT Madras**  
-📌 **Core Placement Coordinator** | Passionate about **CAE, CFD, FEA, and Machine Learning in Engineering**  
-
----
-
-## 🔧 Core Skills
-- **Computer-Aided Engineering (CAE)**: ANSYS, Abaqus, SolidWorks  
-- **Computational Fluid Dynamics (CFD)**: Fluent, OpenFOAM, Star-CCM+  
-- **Finite Element Analysis (FEA)**: Structural, Thermal, Vibrational, Fracture Mechanics  
-- **Programming & Data Analysis**: Python, MATLAB, Excel , C++ 
-- **Machine Learning for Engineering**: TensorFlow, Scikit-learn (surrogate modeling, predictive maintenance)  
-- **Version Control & Tools**: Git, GitHub, CMake, Jupyter  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kalpeshiitm/) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:me24m086@smail.iitm.ac.in) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/kalpeshsingh89)  
 
 ---
 
-## 🚀 Projects (Pinned Highlights)
-📌 *Click the pinned repositories below for full details.*  
-
-- **FEM Simulation of a Cantilever Beam (deal.II)**  
-  - Implemented structural FEA with validation against analytical solutions.  
-
-- **Airfoil Flow Simulation (ANSYS FLUENT)**  
-  - Simulated aerodynamic performance with mesh refinement and drag/lift validation.  
-
+## 👨‍💻 About Me  
+🎓 Master's student in **Mechanical Design Engineering** at **IIT Madras**  
+🔧 Specializing in **CAE, FEA, CFD, and ML for Engineering**  
+📌 Deputy Placement Coordinator | Passionate about **R&D, Multiphysics Simulation & Optimization**  
+🌍 Career Goals: R&D/Product Development roles in **Germany, Japan, South Korea, Dubai, Australia, Taiwan**  
 
 ---
 
-## 📊 Current Focus
-- Learning **deal.II** for advanced FEM research.  
-- Exploring **phase-field methods for fracture** with FEM + ML integration.  
-- Enhancing **data-driven design optimization** skills.  
+## 🛠️ I'm currently working on  
+- 🏗️ **FEM Simulation of a Cantilever Beam** using deal.II  
+- 🌊 **Airfoil CFD Simulation** using OpenFOAM  
+- 🤖 **Surrogate Modeling for Fracture Propagation** with ML + FEM data  
 
 ---
 
-## 🌍 Career Goals
-Seeking **global R&D and product development roles** in:  
-- Finite Element Analysis (FEA)  
-- Computational Fluid Dynamics (CFD)  
-- Machine Learning in Engineering  
-- Multiphysics Simulation & Optimization  
-
-Target regions: **Germany, Japan, South Korea, Dubai, Australia, Taiwan**  
+## 🌱 I'm currently learning  
+- 📘 **Phase-field fracture modeling**  
+- 📊 **Machine Learning for CAE/CFD**  
+- 🖥️ **High-performance computing (HPC)** for large-scale simulations  
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/kalpeshiitm/)  
-- [Email](mailto:me24m086@smail.iitm.ac.in)  
+## 💡 I've worked on  
+- 🔹 Structural, Thermal, and Vibration **FEA** (ANSYS, Abaqus, SolidWorks)  
+- 🔹 **CFD Studies** on flow and heat transfer (Fluent, OpenFOAM, Star-CCM+)  
+- 🔹 **Material Property Prediction** using Python & Scikit-learn  
+- 🔹 Data Analysis & Visualization with Python, MATLAB, Excel  
 
 ---
-⭐ *Feel free to explore my repositories — each project includes documentation, reproducible workflows, and results.*  
+
+## 🚀 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![ANSYS](https://img.shields.io/badge/ANSYS-yellow?logo=ansys)  
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue)  
+![deal.II](https://img.shields.io/badge/deal.II-FEM-lightgrey)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+
+---
+
+⭐ *Check out my pinned repositories for simulations, ML projects, and engineering case studies.*
