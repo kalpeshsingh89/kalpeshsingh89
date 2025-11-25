@@ -1,46 +1,108 @@
-# Hi there 👋, My name is Kalpesh Singh  
+<h1 align="center">Hi, I'm Kalpesh Singh 👋</h1>
+<p align="center"><b>Mechanical Design · CAE · FEM · CFD</b></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kalpeshiitm/) 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:me24m086@smail.iitm.ac.in) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/kalpeshsingh89)  
-
----
-## 🚀 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![ANSYS](https://img.shields.io/badge/ANSYS-yellow?logo=ansys) ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-blue) ![deal.II](https://img.shields.io/badge/deal.II-FEM-lightgrey) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-
----
-
-## 👨‍💻 About Me  
-🎓 Master's student in **Mechanical Design Engineering** at **IIT Madras**  
-🔧 Specializing in **CAE, FEA, CFD, and ML for Engineering**  
-📌 Core Placement Coordinator | Passionate about **R&D, Multiphysics Simulation & Optimization**  
-🌍 Career Goals: R&D/Product Development roles in **Germany, Japan, South Korea, Dubai, Australia, Taiwan**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalpeshiitm/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+  </a>
+  <a href="mailto:me24m086@smail.iitm.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail">
+  </a>
+  <a href="https://github.com/kalpeshsingh89">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github">
+  </a>
+</p>
 
 ---
 
-## 🛠️ I'm currently working on  
-- 🏗️ **FEM Simulation of a Cantilever Beam** using deal.II  
-- 🌊 **Airfoil CFD Simulation** using OpenFOAM  
-- 🤖 **Surrogate Modeling for Fracture Propagation** with ML + FEM data  
+## 🛠️ What I Actually Work With  
+*(Strictly matching the resume — nothing extra.)*
+
+**CAD / CAE / Simulation**  
+ANSYS Workbench · ANSYS Fluent · HyperMesh · LS-DYNA · SolidWorks · CREO
+
+**Programming & Analysis**  
+C++ · Python · MATLAB · NumPy · SymPy · Matplotlib
+
+**Tools & Platforms**  
+Git · Ubuntu · Power BI · MS Office
+
+**Domains I move in**  
+Structural / Thermal / Vibration FEA · CFD (flow + heat transfer)  
+Material property prediction · Data analysis & visualization  
+Design for manufacturing · Multiphysics
 
 ---
 
-## 🌱 I'm currently learning  
-- 📘 **Phase-field fracture modeling**  
-- 📊 **Machine Learning for CAE/CFD**  
-- 🖥️ **High-performance computing (HPC)** for large-scale simulations  
+## 🔥 My Current Focus  
+### **📌 M.Tech Project — Phase-Field Fracture (C++ · deal.II)**  
+Brittle fracture modelling using the phase-field approach.  
+Working on:  
+- Implementing variational formulation in deal.II  
+- FEM solution steps + mesh refinement + convergence checks  
+- Validating 2D/3D crack propagation cases from literature  
+- Automation for post-processing + result verification  
+
+**This repo will contain:** clean C++ code, input files, convergence tests, sanity plots, and comparison with benchmark fracture problems.
 
 ---
 
-## 💡 I've worked on  
-- 🔹 Structural, Thermal, and Vibration **FEA** (ANSYS, Abaqus, SolidWorks)  
-- 🔹 **CFD Studies** on flow and heat transfer (Fluent, OpenFOAM, Star-CCM+)  
-- 🔹 **Material Property Prediction** using Python & Scikit-learn  
-- 🔹 Data Analysis & Visualization with Python, MATLAB, Excel  
+## 🚧 Completed Projects 
+
+### **⚙️ 6-Speed Gearbox Design — Kawasaki Ninja ZX-10R**
+- Designed complete gearbox (shaft, gears, bearings)  
+- Fatigue checks using ASME criteria  
+- Modal, impact, and static analysis in ANSYS  
+- Achieved **68.35% weight reduction** through iterative redesign  
+- Python scripts for SFD/BMD visualization  
+
+### **🔩 Vibration Analysis of MDOF System**
+- Developed equations of motion  
+- Modal + transient analysis  
+- Decoupled system into generalized coordinates  
+
+### **❄️ Thermo-Acoustic Refrigerator — Performance Analysis**
+- SolidWorks design  
+- MATLAB modelling of the cycle  
+- Improved theoretical + experimental COP through design tuning  
 
 ---
 
+## 💼 Experience
+
+### **R&D Engineering – Trainee | Rotomotive Powerdrives India Ltd**
+- Motor component design in SolidWorks  
+- Structural analysis in ANSYS  
+- Prototype testing + heat transfer evaluation  
+- Supplier validation, GD&T, weight reduction studies  
+
+### **Product Development Intern | Simulation Lab®**
+- Wing flap aerodynamic improvement  
+- CFD simulations in ANSYS Fluent (k–ω)  
+- Structural + multiphysics analysis of components  
+
+### **Teaching Assistant – Data Science for Mechanical Engineering**
+- Assisted 120+ students in programming/data tasks  
+- Supported evaluation + problem-solving sessions  
+
+### **Placement Team – IIT Madras**
+Core Placement Coordinator (PG Mechanical)
+
 ---
 
-⭐ *Check out my pinned repositories for simulations, ML projects, and engineering case studies.*
+## 📌 What to Expect in My Repos
+
+- FEM codes (C++ + deal.II) for fracture, beams, and test problems  
+- Python notebooks for ML-based material/response prediction  
+- Clean documentation, minimal assumptions, reproducible examples  
+- Simulation workflows that match how real engineers work, not how people “pretend” on GitHub  
+
+---
+
+## 🎯 GATE Performance  
+- AIR **39** – Engineering Sciences (99.654 percentile)  
+- AIR **1331** – Mechanical Engineering (97.969 percentile)
+
+---
+
+## ⭐ If you're into CAE, FEM, CFD, material modelling, or simulation workflows — let's connect.  
