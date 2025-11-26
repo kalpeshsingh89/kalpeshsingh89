@@ -16,7 +16,6 @@
 ---
 
 ## 🛠️ What I Actually Work With  
-*(Strictly matching the resume — nothing extra.)*
 
 **CAD / CAE / Simulation**  
 ANSYS Workbench · ANSYS Fluent · HyperMesh · LS-DYNA · SolidWorks · CREO
@@ -40,7 +39,7 @@ Brittle fracture modelling using the phase-field approach.
 Working on:  
 - Implementing variational formulation in deal.II  
 - FEM solution steps + mesh refinement + convergence checks  
-- Validating 2D/3D crack propagation cases from literature  
+- Validating 2D crack propagation cases from literature  
 - Automation for post-processing + result verification  
 
 **This repo will contain:** clean C++ code, input files, convergence tests, sanity plots, and comparison with benchmark fracture problems.
